@@ -32,6 +32,9 @@ Dos aplicaciones multiplataforma en .NET MAUI para gestión de citas en una barb
 Documentación técnica de dos ataques de red sobre protocolos DHCP: vector de ataque, condiciones de explotación y medidas de mitigación.  
 `Ciberseguridad` `Redes` `DHCPv6`
 
+### GitHub Stat
+[![GitHub Streak](https://streak-stats.demolab.com?user=StevenRamirez0210&theme=dracula)](https://git.io/streak-stats)
+
 ---
 
 ## 📬 Contacto
