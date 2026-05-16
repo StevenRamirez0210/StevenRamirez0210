@@ -3,6 +3,8 @@
 Desarrollador de aplicaciones multiplataforma con especialización en ciberseguridad. Combino desarrollo de software y conocimientos de seguridad — una mezcla poco frecuente en perfiles junior.
 
 Titulado en DAM · IES Dr. Fausti Barberà, Valencia
+Titulado en Ciberseguridad · IES Serra Perenxisa, Valencia
+
 
 ---
 
